@@ -24,8 +24,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=msyasy&color=8B5CF6&style=flat-square&label=Profile+Views&labelColor=4B5563" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Followers-51-6366F1?style=flat-square&labelColor=4B5563" alt="Followers" />
-  <img src="https://img.shields.io/badge/Stars-18-4F46E5?style=flat-square&labelColor=4B5563" alt="Stars" />
+  <img src="https://img.shields.io/badge/Followers-0-6366F1?style=flat-square&labelColor=4B5563" alt="Followers" />
+  <img src="https://img.shields.io/badge/Stars-0-4F46E5?style=flat-square&labelColor=4B5563" alt="Stars" />
 </p>
 
 ---
