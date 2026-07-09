@@ -18,7 +18,7 @@
 <p align="center">
   <a href="https://yourportfolio.dev"><img src="https://img.shields.io/badge/PORTFOLIO-LIVE-6B21A8?style=for-the-badge&logo=vercel&labelColor=24292E" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/msyasy/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&labelColor=24292E" alt="LinkedIn" /></a>
-  <a href="msyasy.care@gmail.com"><img src="https://img.shields.io/badge/EMAIL-REACH_OUT-D14836?style=for-the-badge&logo=gmail&labelColor=24292E" alt="Email" /></a>
+  <a href="mailto:msyasy.care@gmail.com"><img src="https://img.shields.io/badge/EMAIL-REACH_OUT-D14836?style=for-the-badge&logo=gmail&labelColor=24292E" alt="Email" /></a>
   <a href="https://github.com/msyasy"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&labelColor=24292E" alt="GitHub" /></a>
 </p>
 
