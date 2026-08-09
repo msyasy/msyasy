@@ -177,10 +177,10 @@ Contributed across the development lifecycle assisting with structural code eval
 
 ## Coding Profiles
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://leetcode.com/msyasy"><img src="https://img.shields.io/badge/LEETCODE-PROBLEM_SOLVING-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=24292E" alt="LeetCode" /></a>
   <a href="https://hackerrank.com/msyasy"><img src="https://img.shields.io/badge/HACKERRANK-5★_RATED-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=24292E" alt="HackerRank" /></a>
-</p>
+</p> -->
 
 ---
 
