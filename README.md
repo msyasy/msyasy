@@ -178,8 +178,8 @@ Contributed across the development lifecycle assisting with structural code eval
 ## Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/yourusername"><img src="https://img.shields.io/badge/LEETCODE-PROBLEM_SOLVING-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=24292E" alt="LeetCode" /></a>
-  <a href="https://hackerrank.com/yourusername"><img src="https://img.shields.io/badge/HACKERRANK-5★_RATED-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=24292E" alt="HackerRank" /></a>
+  <a href="https://leetcode.com/msyasy"><img src="https://img.shields.io/badge/LEETCODE-PROBLEM_SOLVING-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=24292E" alt="LeetCode" /></a>
+  <a href="https://hackerrank.com/msyasy"><img src="https://img.shields.io/badge/HACKERRANK-5★_RATED-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=24292E" alt="HackerRank" /></a>
 </p>
 
 ---
@@ -187,7 +187,7 @@ Contributed across the development lifecycle assisting with structural code eval
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=msyasy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msyasy&theme=tokyonight" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=msyasy&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats" width="48%" />
 </p>
 
