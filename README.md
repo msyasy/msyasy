@@ -136,7 +136,7 @@ A desktop application for CV. Frame Nusa Travel that helps decide employee incen
 - Verified physical assets against system data according to the agency's SOP.
 - Handled the procurement, distribution, and inventory cycle of daily office supplies, and supported logistics for agency events.
 
-**Tools:** SIMAK-BMN · Microsoft Excel · Google Sheets
+**Tools:**Microsoft Excel · Google Sheets
 
 <br>
 
